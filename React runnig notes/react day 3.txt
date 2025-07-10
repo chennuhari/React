@@ -2,7 +2,7 @@
 										hooks ?
 									====================
 
-`````````````````What are Hooks in React?
+`````````````````What are Hooks in React?---------------------------------------------------------------------------------------------------------------------
 
 	
 -> Before hooks, only class components could use things React features. Hooks make it possible to use these features in function components too!
